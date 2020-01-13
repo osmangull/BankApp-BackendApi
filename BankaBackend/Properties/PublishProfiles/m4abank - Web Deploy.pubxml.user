@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZgjcyODRB0Wsous4+5U0VgAAAAACAAAAAAAQZgAAAAEAACAAAACNqEgy0bsvHLnwoMJqmh1kMNv7dfPiLc6+Pvi1evPSIwAAAAAOgAAAAAIAACAAAAAGE7Bw83KRjy7ZQmk/X7dGM/pbqEd2REM5fBm3LvYiBoAAAACFU5zz62eAc+ypiKXykNCqkVsJQgfHIf4OfvXhvRMFjVPkCquj/ZYSSnpOkMhGJeS78lmTMKCyqi4IjU2t479d9v6NEbjhS8uoCBMdqHIJyqrrlkMLP4Pa5Dlgk0okqo83Powr+Id5xwTGbiZFuqmCUu3QtEiGFlT4x36qfa+EMUAAAABDci8dHANwhHced8HEamOULJJlXoyINBITWdpRQOr8bLRL+WCkzr/TZ4HyZ6kCs/aLPp9gPV7rP7nvkCq1pvUv</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="M4ABank">
+      <Value>Server=m4a.database.windows.net%3bDatabase=M4A-Bank%3bPersist Security Info=True%3bUser ID=M4ABank%3bPassword=Furkan123%3bMultipleActiveResultSets=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="BankaBackend.Models.M4ABankContext">
+      <Value>Server=m4a.database.windows.net%3bDatabase=M4A-Bank%3bPersist Security Info=True%3bUser ID=M4ABank%3bPassword=Furkan123%3bMultipleActiveResultSets=True%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

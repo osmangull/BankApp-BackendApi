@@ -1,0 +1,15 @@
+C:\Users\Bekir Furkan Zadegil\Desktop\BankaBackend\BankaBackend\bin\Release\netcoreapp2.1\BankaBackend.deps.json
+C:\Users\Bekir Furkan Zadegil\Desktop\BankaBackend\BankaBackend\bin\Release\netcoreapp2.1\BankaBackend.runtimeconfig.json
+C:\Users\Bekir Furkan Zadegil\Desktop\BankaBackend\BankaBackend\bin\Release\netcoreapp2.1\BankaBackend.runtimeconfig.dev.json
+C:\Users\Bekir Furkan Zadegil\Desktop\BankaBackend\BankaBackend\bin\Release\netcoreapp2.1\BankaBackend.dll
+C:\Users\Bekir Furkan Zadegil\Desktop\BankaBackend\BankaBackend\bin\Release\netcoreapp2.1\BankaBackend.pdb
+C:\Users\Bekir Furkan Zadegil\Desktop\BankaBackend\BankaBackend\obj\Release\netcoreapp2.1\BankaBackend.csproj.CoreCompileInputs.cache
+C:\Users\Bekir Furkan Zadegil\Desktop\BankaBackend\BankaBackend\obj\Release\netcoreapp2.1\BankaBackend.RazorAssemblyInfo.cache
+C:\Users\Bekir Furkan Zadegil\Desktop\BankaBackend\BankaBackend\obj\Release\netcoreapp2.1\BankaBackend.RazorAssemblyInfo.cs
+C:\Users\Bekir Furkan Zadegil\Desktop\BankaBackend\BankaBackend\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Bekir Furkan Zadegil\Desktop\BankaBackend\BankaBackend\obj\Release\netcoreapp2.1\BankaBackend.AssemblyInfoInputs.cache
+C:\Users\Bekir Furkan Zadegil\Desktop\BankaBackend\BankaBackend\obj\Release\netcoreapp2.1\BankaBackend.AssemblyInfo.cs
+C:\Users\Bekir Furkan Zadegil\Desktop\BankaBackend\BankaBackend\obj\Release\netcoreapp2.1\BankaBackend.RazorTargetAssemblyInfo.cache
+C:\Users\Bekir Furkan Zadegil\Desktop\BankaBackend\BankaBackend\obj\Release\netcoreapp2.1\BankaBackend.dll
+C:\Users\Bekir Furkan Zadegil\Desktop\BankaBackend\BankaBackend\obj\Release\netcoreapp2.1\BankaBackend.pdb
+C:\Users\Bekir Furkan Zadegil\Desktop\BankaBackend\BankaBackend\obj\Release\netcoreapp2.1\BankaBackend.csprojAssemblyReference.cache

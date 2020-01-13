@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZgjcyODRB0Wsous4+5U0VgAAAAACAAAAAAAQZgAAAAEAACAAAADall7ZlhQ9NEAp/CjShEV7kCwteLm/VDLSZo2FBLfNdAAAAAAOgAAAAAIAACAAAAAamG7u1eOXhSEjADZzyMU6S00wqp37qXIP4qhaXMMZ2oAAAAAR4GzcFTaU1IVdzoQX2V7CyAV65+NxQHmeuHBM448iNs7YGzQqNZ6F6CgqnMsQ4uuLk1BW1dtR6IPLrqzEGEOBszeDQLg3nyZvaSyDrqKGSA1AhwRp2Jod9V5EoQ19h08cRC4q7wCPlIlJJt0d/VUdkrmEKV+mz5HmomxM/izFRUAAAADqje8RX14aiZ/THR6qf5y7C9WBMxWChXVJ9AzixuGJbgiX9d2pyMsPgaA405fRr9k4wxXhhy3XajKXBDVAOww2</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="M4ABank">
+      <Value>Data Source=tcp:bankabackend20191202060058dbserver.database.windows.net,1433%3bInitial Catalog=BankaBackend20191202061312_db%3bUser Id=BankAPIDB%40bankabackend20191202060058dbserver%3bPassword=Furkan123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

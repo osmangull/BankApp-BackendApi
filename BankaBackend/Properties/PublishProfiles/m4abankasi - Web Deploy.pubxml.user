@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZgjcyODRB0Wsous4+5U0VgAAAAACAAAAAAAQZgAAAAEAACAAAAC7AFVFG+JLrKCWcsjU9xgOdL4kAA6N82yp3X0yZQ1G7wAAAAAOgAAAAAIAACAAAADxOLAV0tn/GnHTecJDNQTbnHNGIe/15RIYaCgZ7luUkIAAAACqfY0Se/k74pQzKs8ZW0TtrIzlGYk8B463LWi7gNYgpTvc58wgJxnqDcJRRVxm2oFa5T0i+Q5NL8XsXHcOU2l/1nShSnE3la4PlFHR/xrsgijP9bWK8FLUt8wt7TX/VNdvKz/GDkO0ffbY0F9b6cGUzHqfOJ0cr34czABpJye5AEAAAACQWV6p/5j79NxNoWicofimZRTZa6tS/L7aN7YZw5e0h8H3so3s83Q4tqQOvSSY7vfiYE55IDDW5f3swqDoA+NC</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="M4ABank">
+      <Value>Server=tcp:m4a.database.windows.net,1433%3bDatabase=M4A-Bank%3bUser ID=M4ABank%3bPassword=Furkan123%3bEncrypt=true%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
